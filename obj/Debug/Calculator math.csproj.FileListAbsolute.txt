@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Calculator math\Calculator math\bin\Debug\Calculator math.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Calculator math\Calculator math\bin\Debug\Calculator math.exe
+c:\users\user\documents\visual studio 2013\Projects\Calculator math\Calculator math\bin\Debug\Calculator math.pdb
+c:\users\user\documents\visual studio 2013\Projects\Calculator math\Calculator math\obj\Debug\Calculator math.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Calculator math\Calculator math\obj\Debug\Calculator_math.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Calculator math\Calculator math\obj\Debug\Calculator_math.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Calculator math\Calculator math\obj\Debug\Calculator math.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Calculator math\Calculator math\obj\Debug\Calculator math.exe
+c:\users\user\documents\visual studio 2013\Projects\Calculator math\Calculator math\obj\Debug\Calculator math.pdb
